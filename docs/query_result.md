@@ -7,17 +7,20 @@
 > filtered using any of the column values, and sorted based on any
 > column value by clicking the column header.
 
-<img src="img/image3.png"
-style="width:6.94683in;height:3.49479in" />
+> ![](img/image3.png)
+<!-- <img src="img/image3.png"
+style="width:6.94683in;height:3.49479in" /> -->
 
 It will also report a graph of the allele frequencies where you can
 inspect the major and minor alleles per subpopulation for all SNP
 positions from the query.
 
-<img src="img/image4.png"
-style="width:6.5in;height:2.59722in" />
+> ![](img/image4.png)
+<!-- <img src="img/image4.png"
+style="width:6.5in;height:2.59722in" /> -->
 
 In another panel, you can also view the region in a genome browser.
 
-<img src="img/image5.png"
-style="width:6.5in;height:2.29167in" />
+> ![](img/image5.png)
+<!-- <img src="img/image5.png"
+style="width:6.5in;height:2.29167in" /> -->
