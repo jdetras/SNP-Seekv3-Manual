@@ -8,10 +8,12 @@ Download the table in "Plink" format by clicking on the "Plink" button.
 > The first few lines of your downloaded .map file should look like
 > this:
 
-<img src="img/image10.png"
-style="width:2.72917in;height:2.69in" />\...
+> ![](img/image10.png)
+<!-- <img src="img/image10.png"
+style="width:2.72917in;height:2.69in" />\... -->
 
 Likewise, the first few lines of your .ped file should be like this:
 
-<img src="img/image11.png"
-style="width:6.23958in;height:3.53125in" />
+> ![](img/image11.png)
+> <!-- <img src="img/image11.png"
+style="width:6.23958in;height:3.53125in" /> -->
