@@ -9,7 +9,7 @@ Pre-Harvest Sprouting Resistance for Japonica Rice Improvement**. Plants
 (Basel). 2021 Aug 19;10(8):1709. doi: 10.3390/plants10081709. PMID:
 34451754; PMCID: PMC8401653.*
 
-# User Login
+## User Login
 
 <img src="img/image1.png"
 style="width:6.5in;height:3.4526in" />
@@ -26,7 +26,7 @@ style="width:6.5in;height:3.4526in" />
 
 2.  Sign up if you do not have an account in SNPSeek yet.
 
-# Search Genotypes:
+## Search Genotypes:
 
 > Note that our QTL/trait of interest is in this region:
 > **<u>Chr4:4662701-4670717</u>**
@@ -81,7 +81,7 @@ style="width:1.91146in;height:3.02567in" />
 
 Knowledge Check: How many SNPs were retrieved within the given region?
 
-# Query result
+## Query result
 
 > After querying the genotypes, you will have a table which displays the
 > alleles for each 3KRG variety in a row, for all SNP positions within
@@ -105,7 +105,7 @@ In another panel, you can also view the region in a genome browser.
 <img src="img/image5.png"
 style="width:6.5in;height:2.29167in" />
 
-# SNP Effects
+## SNP Effects
 
 > The Genotype query also returns a table containing the SNP effects
 > detected on MSU gene models. This is calculated using the SNPEff
@@ -114,7 +114,7 @@ style="width:6.5in;height:2.29167in" />
 <img src="img/image6.png"
 style="width:6.5in;height:3.49281in" />
 
-# Haplotype View
+## Haplotype View
 
 > Another view for the result of the genotype query is the Haplotype
 > View. This allows us to know whether our haplotypes make sense.
@@ -136,7 +136,7 @@ style="width:7.0427in;height:1.96354in" />
 Knowledge Check: How many varieties belong to each major haplotype
 group?
 
-# Downloading the results table
+## Downloading the results table
 
 Download the table in "Plink" format by clicking on the "Plink" button.
 
@@ -154,7 +154,7 @@ Likewise, the first few lines of your .ped file should be like this:
 <img src="img/image11.png"
 style="width:6.23958in;height:3.53125in" />
 
-#  Add positions in my list
+##  Add positions in my list
 
 > From the map file, remove the middle columns such that only the 1st
 > column and the last columns remain (chr, position).
@@ -178,7 +178,7 @@ style="width:6.23958in;height:3.53125in" />
 > <img src="img/image14.png"
 > style="width:2.34896in;height:3.6686in" />
 
-# Annotate SNP List
+## Annotate SNP List
 
 > Next thing we want to do is to look for candidate genes within the QTL
 > region in Nipponbare, go to "Search"-\> "Gene Loci".
@@ -214,7 +214,7 @@ style="width:6.5in;height:1.44444in" />
 > <img src="img/image18.png"
 > style="width:6.5in;height:1.95833in" />
 
-# Saving the Gene List
+## Saving the Gene List
 
 Save the list as "qDTF_genes"
 
@@ -224,7 +224,7 @@ Save the list as "qDTF_genes"
 <img src="img/image19.png"
 style="width:6.5in;height:1.98611in" />
 
-# Get Gene set/network
+## Get Gene set/network
 
 > Using the gene list we generated, we will now do a gene enrichment
 > analysis to know if there are other genes previously reported that are
