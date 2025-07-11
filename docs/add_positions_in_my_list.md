@@ -18,7 +18,9 @@
 >
 > You will be able to see this new list on the left side of the panel.
 >
-> <img src="img/image13.png"
+> ![](img/image13.png)
+> ![](img/image14.png)
+> <!-- <img src="img/image13.png"
 > style="width:2.79038in;height:3.70313in" />
 > <img src="img/image14.png"
-> style="width:2.34896in;height:3.6686in" />
+> style="width:2.34896in;height:3.6686in" /> -->
