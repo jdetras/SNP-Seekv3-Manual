@@ -1,4 +1,4 @@
-# Search Genotypes:
+# Search Genotypes
 
 > Note that our QTL/trait of interest is in this region:
 > **<u>Chr4:4662701-4670717</u>**
