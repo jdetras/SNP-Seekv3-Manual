@@ -18,8 +18,9 @@
 >
 > Click on "Gene set/enrichment".
 >
-> <img src="img/image20.png"
-> style="width:6.5in;height:1.95833in" />
+> > ![](img/image20.png)
+> <!-- <img src="img/image20.png"
+> style="width:6.5in;height:1.95833in" /> -->
 >
 > Unfortunately, this query will not return any result. Click the "Go"
 > button beside the Ricenet option and it will give us this message:
