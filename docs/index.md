@@ -11,7 +11,7 @@ Pre-Harvest Sprouting Resistance for Japonica Rice Improvement**. Plants
 
 # User Login
 
-<img src="docs/img/image1.png"
+<img src="img/image1.png"
 style="width:6.5in;height:3.4526in" />
 
 1.  Login using your SNP-seek credentials. There are three ways to do
@@ -76,7 +76,7 @@ style="width:6.5in;height:3.4526in" />
 > Click **"Search"** to retrieve the positions within this region within
 > the 3KRG accessions.
 
-<img src="docs/img/image2.png"
+<img src="img/image2.png"
 style="width:1.91146in;height:3.02567in" />
 
 Knowledge Check: How many SNPs were retrieved within the given region?
@@ -90,19 +90,19 @@ Knowledge Check: How many SNPs were retrieved within the given region?
 > filtered using any of the column values, and sorted based on any
 > column value by clicking the column header.
 
-<img src="docs/img/image3.png"
+<img src="img/image3.png"
 style="width:6.94683in;height:3.49479in" />
 
 It will also report a graph of the allele frequencies where you can
 inspect the major and minor alleles per subpopulation for all SNP
 positions from the query.
 
-<img src="docs/img/image4.png"
+<img src="img/image4.png"
 style="width:6.5in;height:2.59722in" />
 
 In another panel, you can also view the region in a genome browser.
 
-<img src="docs/img/image5.png"
+<img src="img/image5.png"
 style="width:6.5in;height:2.29167in" />
 
 # SNP Effects
@@ -111,7 +111,7 @@ style="width:6.5in;height:2.29167in" />
 > detected on MSU gene models. This is calculated using the SNPEff
 > program.
 
-<img src="docs/img/image6.png"
+<img src="img/image6.png"
 style="width:6.5in;height:3.49281in" />
 
 # Haplotype View
@@ -119,18 +119,18 @@ style="width:6.5in;height:3.49281in" />
 > Another view for the result of the genotype query is the Haplotype
 > View. This allows us to know whether our haplotypes make sense.
 
-<img src="docs/img/image7.png"
+<img src="img/image7.png"
 style="width:6.5in;height:3.008in" />
 
 > You should also see major grouping of alleles which contributes to the
 > haplotype.
 
-<img src="docs/img/image8.png"
+<img src="img/image8.png"
 style="width:6.5in;height:3.12878in" />
 
 In this hands-on, you should see **3 major haplotype groups**.
 
-<img src="docs/img/image9.png"
+<img src="img/image9.png"
 style="width:7.0427in;height:1.96354in" />
 
 Knowledge Check: How many varieties belong to each major haplotype
@@ -146,7 +146,7 @@ Download the table in "Plink" format by clicking on the "Plink" button.
 > The first few lines of your downloaded .map file should look like
 > this:
 
-<img src="docs/img/image10.png"
+<img src="img/image10.png"
 style="width:2.72917in;height:2.69in" />\...
 
 Likewise, the first few lines of your .ped file should be like this:
@@ -168,14 +168,14 @@ style="width:6.23958in;height:3.53125in" />
 > this hands-on, we will not do that since we know that these SNPs
 > already came as a result of the genotype query.
 >
-> <img src="docs/img/image12.png"
+> <img src="img/image12.png"
 > style="width:3.08767in;height:5.14612in" />
 >
 > You will be able to see this new list on the left side of the panel.
 >
-> <img src="docs/img/image13.png"
+> <img src="img/image13.png"
 > style="width:2.79038in;height:3.70313in" />
-> <img src="docs/img/image14.png"
+> <img src="img/image14.png"
 > style="width:2.34896in;height:3.6686in" />
 
 # Annotate SNP List
@@ -193,7 +193,7 @@ style="width:6.23958in;height:3.53125in" />
 > "Gene Ontology" annotations. You may choose to add more to gather more
 > annotations for this region.
 
-<img src="docs/img/image15.png"
+<img src="img/image15.png"
 style="width:3.59497in;height:4.54688in" />
 
 The result should be a table which contains the annotations that can be
@@ -201,17 +201,17 @@ grouped by:
 
 1.  Marker/Position
 
-<img src="docs/img/image16.png"
+<img src="img/image16.png"
 style="width:6.5in;height:1.81944in" />
 
 2.  Gene Locus
 
-<img src="docs/img/image17.png"
+<img src="img/image17.png"
 style="width:6.5in;height:1.44444in" />
 
 3.  QTL
 
-> <img src="docs/img/image18.png"
+> <img src="img/image18.png"
 > style="width:6.5in;height:1.95833in" />
 
 # Saving the Gene List
@@ -221,7 +221,7 @@ Save the list as "qDTF_genes"
 > Go to "My Lists" and you should see 3 gene loci when you search under
 > "Locus".
 
-<img src="docs/img/image19.png"
+<img src="img/image19.png"
 style="width:6.5in;height:1.98611in" />
 
 # Get Gene set/network
@@ -244,7 +244,7 @@ style="width:6.5in;height:1.98611in" />
 >
 > Click on "Gene set/enrichment".
 >
-> <img src="docs/img/image20.png"
+> <img src="img/image20.png"
 > style="width:6.5in;height:1.95833in" />
 >
 > Unfortunately, this query will not return any result. Click the "Go"
