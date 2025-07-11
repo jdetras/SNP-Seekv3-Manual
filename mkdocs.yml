@@ -5,7 +5,7 @@ theme:
 nav:
   - Home: index.md
   - User Login: user_login.md
-  - Search Genotypes:: search_genotypes:.md
+  - Search Genotypes: search_genotypes.md
   - Query result: query_result.md
   - SNP Effects: snp_effects.md
   - Haplotype View: haplotype_view.md
