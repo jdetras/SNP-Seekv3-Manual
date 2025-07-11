@@ -4,6 +4,16 @@ theme:
   language: en
 nav:
   - Home: index.md
+  - User Login: user_login.md
+  - Search Genotypes:: search_genotypes:.md
+  - Query result: query_result.md
+  - SNP Effects: snp_effects.md
+  - Haplotype View: haplotype_view.md
+  - Downloading the results table: downloading_the_results_table.md
+  - Add positions in my list: add_positions_in_my_list.md
+  - Annotate SNP List: annotate_snp_list.md
+  - Saving the Gene List: saving_the_gene_list.md
+  - Get Gene set/network: get_gene_set_network.md
 plugins:
   - search
 markdown_extensions:
