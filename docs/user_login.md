@@ -1,6 +1,6 @@
 # User Login
 
-<img src="user_login/img/image1.png"
+<img src="/img/image1.png"
 style="width:6.5in;height:3.4526in" />
 
 1.  Login using your SNP-seek credentials. There are three ways to do
