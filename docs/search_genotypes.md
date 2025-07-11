@@ -48,7 +48,8 @@
 > Click **"Search"** to retrieve the positions within this region within
 > the 3KRG accessions.
 
-<img src="img/image2.png"
-style="width:1.91146in;height:3.02567in" />
+![Search Genotype](img/image2.png)
+<!-- <img src="img/image2.png"
+style="width:1.91146in;height:3.02567in" /> -->
 
 Knowledge Check: How many SNPs were retrieved within the given region?
