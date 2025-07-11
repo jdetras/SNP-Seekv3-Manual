@@ -151,7 +151,7 @@ style="width:2.72917in;height:2.69in" />\...
 
 Likewise, the first few lines of your .ped file should be like this:
 
-<img src="docs/img/image11.png"
+<img src="img/image11.png"
 style="width:6.23958in;height:3.53125in" />
 
 #  Add positions in my list
