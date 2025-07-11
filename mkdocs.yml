@@ -14,6 +14,8 @@ nav:
   - Annotate SNP List: annotate_snp_list.md
   - Saving the Gene List: saving_the_gene_list.md
   - Get Gene set/network: get_gene_set_network.md
+extra_css:
+  - img/fix.css
 plugins:
   - search
 markdown_extensions:
