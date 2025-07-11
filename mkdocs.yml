@@ -1,6 +1,6 @@
 site_name: SNP-Seek v3 User Manual
 theme:
-  name: Mkdocs
+  name: readthedocs
   language: en
 nav:
   - Home: index.md
