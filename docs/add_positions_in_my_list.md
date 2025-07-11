@@ -12,8 +12,9 @@
 > this hands-on, we will not do that since we know that these SNPs
 > already came as a result of the genotype query.
 >
-> <img src="img/image12.png"
-> style="width:3.08767in;height:5.14612in" />
+> ![Add positions in my list](img/image12.png)
+> <!-- <img src="img/image12.png"
+> style="width:3.08767in;height:5.14612in" /> -->
 >
 > You will be able to see this new list on the left side of the panel.
 >
