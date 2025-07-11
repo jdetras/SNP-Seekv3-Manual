@@ -1,7 +1,8 @@
 # User Login
 
-<img src="img/image1.png"
-style="width:6.5in;height:3.4526in" />
+<!-- <img src="img/image1.png"
+style="width:6.5in;height:3.4526in" /> -->
+![](img/image1.png)
 
 1.  Login using your SNP-seek credentials. There are three ways to do
     this:
