@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'SNP-Seek v3 Manual'
-copyright = '2025, Jeffrey Detras'
+copyright = '2025, Breeding Innovations and Informatics, Rice Breeding Innovations, International Rice Research Institute'
 author = 'Jeffrey Detras'
 release = '1.0'
 
