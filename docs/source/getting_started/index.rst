@@ -1,6 +1,17 @@
 Getting Started
 ==========================
 
+Here is an example region of interest to get you started:
+
+**QTL of Interest:**
+Pre-Harvest Sprouting
+
+**Publication:** Lee JS, Chebotarov D, McNally KL, Pede V, Setiyono TD,
+Raquid R, Hyun WJ, Jeung JU, Kohli A, Mo Y. ***Novel Sources of
+Pre-Harvest Sprouting Resistance for Japonica Rice Improvement**. Plants
+(Basel). 2021 Aug 19;10(8):1709. doi: `10.3390/plants10081709 <https://doi.org/10.3390/plants10081709>`_. PMID:
+34451754; PMCID: PMC8401653.*
+
 .. toctree::
    :maxdepth: 1
    
