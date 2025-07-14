@@ -24,3 +24,22 @@ documentation for details.
    annotate_the_gene_list.md
    saving_the_gene_list.md
    get_gene_set_network.md
+
+SNP-Seekv3 Manual
+=================
+
+Welcome to the user manual for the SNP-Seek v3.
+
+This guide walks you through logging in, querying SNP data, analyzing haplotypes, downloading results, and more.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Quick Start Guide
+
+   getting_started/index.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Frequently Asked Questions
+
+   faq/index.rst
