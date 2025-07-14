@@ -18,18 +18,14 @@ Pre-Harvest Sprouting Resistance for Japonica Rice Improvement**. Plants
 (Basel). 2021 Aug 19;10(8):1709. doi: 10.3390/plants10081709. PMID:
 34451754; PMCID: PMC8401653.*
 
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   getting_started/index.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Frequently Asked Questions
 
-   user_login.md
-   search_genotypes.md
-   query_result.md
-   snp_effects.md
-   haplotype_view.md
-   downloading_the_results_table.md
-   add_positions_in_my_list.md
-   annotate_snp_list.md
-   saving_the_gene_list.md
-   get_gene_set_network.md
+   faq/index.rst
