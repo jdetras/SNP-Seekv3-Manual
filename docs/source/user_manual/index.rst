@@ -1,6 +1,8 @@
 Homepage 
 ==========================
 
+*In development*
+
 .. toctree::
    :maxdepth: 1
 
