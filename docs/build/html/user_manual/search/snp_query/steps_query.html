@@ -1,0 +1,173 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Steps in SNP Query &mdash; SNP-Seek v3 Manual 1.0 documentation</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="../../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../../_static/documentation_options.js?v=f2a433a1"></script>
+      <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../../_static/js/external_links.js?v=c52a64b5"></script>
+    <script src="../../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Multiple varieties result" href="multiple_varieties.html" />
+    <link rel="prev" title="SNP Query" href="index.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../../index.html" class="icon icon-home">
+            SNP-Seek v3 Manual
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../getting_started/index.html">Getting Started</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../index.html">User Manual</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../homepage.html">Homepage</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html">Search</a><ul class="current">
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">SNP Query</a><ul class="current">
+<li class="toctree-l4 current"><a class="current reference internal" href="#">Steps in SNP Query</a></li>
+<li class="toctree-l4"><a class="reference internal" href="multiple_varieties.html">Multiple varieties result</a></li>
+<li class="toctree-l4"><a class="reference internal" href="query_indels.html">Query Indels</a></li>
+<li class="toctree-l4"><a class="reference internal" href="multiple_refgenome.html">Multiple reference genomes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="2_varieties.html">Two Varieties Result</a></li>
+<li class="toctree-l4"><a class="reference internal" href="merged_nipponbare.html">Merged Nipponbare gene models</a></li>
+<li class="toctree-l4"><a class="reference internal" href="locus_naming.html">Locus Naming Convention</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../variety_query/index.html">Variety Query</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../locus_query/index.html">Locus Query</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../../my_lists.html">My Lists</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../download.html">Download</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../genome_browser.html">Genome Browser</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../tree_browser.html">Tree Browser</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../mds_plots.html">MDS Plots</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../genome_alignments.html">Genome Alignments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../help.html">Help</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../about.html">About</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../use_cases/index.html">Use Cases</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../faq/index.html">Frequently Asked Questions</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../index.html">SNP-Seek v3 Manual</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../../index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../../index.html">User Manual</a></li>
+          <li class="breadcrumb-item"><a href="../index.html">Search</a></li>
+          <li class="breadcrumb-item"><a href="index.html">SNP Query</a></li>
+      <li class="breadcrumb-item active">Steps in SNP Query</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../../../_sources/user_manual/search/snp_query/steps_query.md.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="steps-in-snp-query">
+<h1>Steps in SNP Query<a class="headerlink" href="#steps-in-snp-query" title="Link to this heading"></a></h1>
+<p>The SNP Query interface has two functionalities, to compare alleles between two specified varieties, and to compare multiple varieties with a reference genome. In both either case, the query region can be specified either by chromosomal region, by gene locus, or by a list of positions.</p>
+<p><strong>Steps to query SNPs</strong></p>
+<ol class="arabic simple">
+<li><p>Specifiy varieties
+a.	To compare alleles between two varieties - in the two pairwise boxes, type or select from the drop-down list the varieties to compare. The text boxes have auto-completion feature so you only need to type the first few characters then select from the drop-down list. The choice items and recognized terms can be the variety name or accession based on the selected button at the right.
+b.	To compare the reference with a subpopulation - select the subpopulation from the listbox. Some items in a choices is a group of more than one subpopulation, all indica (ind1,ind2,ind3,indx), all japonica (temp,trop,temp/trop,trop/temp) and  all varieties
+c.	To compare reference with a list of varieties - select the variety list name in My Variety List, which are defined in My Lists.</p></li>
+<li><p>Specify genome region
+a.	Select the Reference Genome - select among the five sequenced rice genomes to use as reference genome (Japonica Nipponbare, 93-11, IR64-21, DJ123, Kasalath). The chromosome/scaffold and gene locus selections depends on the selected reference genome.
+b.	Check Show all reference alleles – to display the alleles of all 5 reference genomes for each SNP position. The alleles and position conversions between reference genomes are based on pairwise alignment results.
+c.	To sepecify Chromosome/Scaffold region - select the chromosome/scaffold name, type the start and end base positions. Chromosome is avaiable when a fully assembled genome (Nipponbare, Kasalath) is selected, otherwise (IR64-21, DJ123) scaffold is used. 93-11 has both chromosomes and scaffolds.
+d.	To specify Gene locus - type the Gene locus name in the text box. For Nipponbare, we are using the MSUv7 (LOC_OSXXgYYYYYY), RAP (OsXXgYYYYYY), and our merged MSUv71,RAP,FGenesh++ (OsNippoXXgYYYYYY) gene loci names described in NAR Supplementary Materials.  For the other 4 reference genomes, we are proposing a new locus naming convention also described below. The gene text box also has auto-completion feature. When a locus is selected, the chromosomal position boxes are automatically filled with the selected gene’s region.
+e.	To use a list of SNP positions, select the SNP List previously defined.
+f.	To use a list of gene loci, select the Locus List previously defined.
+g.	A genotype can be defined from a SNP List with allele value for each position. You can Match Genotype between this list and all varieties in the selected dataset. The resulting varieties are ranked by the number of matches with the SNP List. Instead of providing a SNP Liist, the genotype could be that of the selected Variety at the specified region.</p></li>
+<li><p>Set options
+a.	Include indels - include indels in the query
+b.	Show phenotype - include the values of the selected phenotype in the results table
+c.	Dataset - select the dataset to query (3kRGP, HDRA, both). If both is selected, there is addition option to use either the union or intersection of the SNP positions.
+d.	SNP coloring determines the color of alleles as displayed in the table and in the Genome Browser. Options are:
+i.	Reference mismatch – SNPs which have polymorphism with the reference are colored red, while the rest is white.
+ii.	Nucleotide – SNPs are colored based on the base nucleotide: A green, T red, G orange, C blue. This follows the JBrowse color code.
+e.	3k SNP Set - select the subset of the 3kRGP SNPs to query (All 32M, Base 18M, Filtered 4.8M, Core 400k). The subsetting criteria is described below.
+f.	Mismatch Only – if checked, only SNPs having allele mismatches are fetched in the pairwise comparison, or having mismatch with the reference in the multiple comparison.
+g.	Include SNPs – select to include/exclude/highlight Non-synonymous SNPs.
+h.	Missing allele - specify how missing allele is to be counted (ignore means 0 match, 0 mismatch; or 0.5 match 0.5 mismatch)</p></li>
+<li><p>Search - to perform query and display the result in a Table, or view in JBrowse or a Tree
+For queries above 50kb region, or 5000 SNPs, or 10 gene loci, the results are not displayed but available for download only.
+Maximum allowed queries are 5Mb region, or 500k SNPs, or 1000 gene loci.</p></li>
+<li><p>Reset -  clear all input fields.</p></li>
+</ol>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="index.html" class="btn btn-neutral float-left" title="SNP Query" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="multiple_varieties.html" class="btn btn-neutral float-right" title="Multiple varieties result" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, Breeding Innovations and Informatics, Rice Breeding Innovations, International Rice Research Institute.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

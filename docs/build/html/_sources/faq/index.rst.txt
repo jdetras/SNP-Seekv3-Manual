@@ -1,36 +1,10 @@
-Sequence Download 
+Frequently Asked Questions
 ==========================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   sequence_download_feature.md
-   dataset_missing.md
-   download_all.md
-
-Haplotype Analysis
-==========================
-
-.. toctree::
-   :maxdepth: 1
-
-   group_allele_view.md
-   output_representation.md
-
-Reporting Bugs and Communication with SNP-Seek Team
-==========================
-
-.. toctree::
-   :maxdepth: 1
-
-   when_request.md
-   report_bug.md
-
-Other Questions
-==========================
-
-.. toctree::
-   :maxdepth: 1
-
-   assembled_genomes.md
-   snp_tassel.md
+   sequence_download/index
+   haplotype_analysis/index
+   reporting_bugs/index
+   other_questions/index

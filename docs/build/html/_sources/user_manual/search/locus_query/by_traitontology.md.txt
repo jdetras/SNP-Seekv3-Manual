@@ -1,0 +1,3 @@
+# By Trait Ontology/TO/PO
+
+Trait Ontology term - gene loci are annotated by Q-TARO traits from the QTARO database, Plant Tait and Plant Anatomy terms (TO, PO) from Oryzabase. The list includes terms that mapped with loci, and ancestors of these terms from the ontology. Selecting a term will display all loci associated with that term, and all its descendants exploiting the transitive closure of the ontology.
