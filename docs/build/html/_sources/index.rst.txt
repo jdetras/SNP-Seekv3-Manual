@@ -7,12 +7,9 @@ This guide walks you through logging in, querying SNP data, analyzing haplotypes
 
 .. toctree::
    :maxdepth: 2
-   :caption: Quick Start Guide
+   :caption: Contents
 
    getting_started/index.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Frequently Asked Questions
-
+   user_manual/index.rst
+   use_cases/index.rst
    faq/index.rst
