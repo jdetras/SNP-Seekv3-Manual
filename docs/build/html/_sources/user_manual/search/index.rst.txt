@@ -7,16 +7,16 @@ SNP-Seek offers a versatile search functionality that enables users to efficient
 
 .. raw:: html
 
-   <a href="/_static/searchbygenotype.png" data-lightbox="example" data-title="Zoomable Image">
-     <img src="/_static/searchbygenotype.png" width="600px" />
+   <a href="_static/searchbygenotype.png" data-lightbox="example" data-title="Zoomable Image">
+     <img src="_static/searchbygenotype.png" width="600px" />
    </a>
 
 2. **Search by Variety**: Users can search for genetic information by specifying a particular variety. This is ideal for those looking to analyze genetic data associated with a specific crop or plant variety, facilitating targeted research and breeding programs.
 
 .. raw:: html
 
-   <a href="/_static/searchbyvariety.png" data-lightbox="example" data-title="Zoomable Image">
-     <img src="/_static/searchbyvariety.png" width="600px" />
+   <a href="_static/searchbyvariety.png" data-lightbox="example" data-title="Zoomable Image">
+     <img src="_static/searchbyvariety.png" width="600px" />
    </a>
 
 3. **Search by Gene Locus**: This option enables users to search for information based on specific gene loci. By entering the desired gene locus, users can access detailed genetic data, which is essential for understanding genetic markers and their implications in plant genetics.
@@ -24,7 +24,7 @@ SNP-Seek offers a versatile search functionality that enables users to efficient
 .. raw:: html
 
    <a href="_static/searchbygeneloci.png" data-lightbox="example" data-title="Zoomable Image">
-     <img src="/_static/searchbygeneloci.png" width="600px" />
+     <img src="_static/searchbygeneloci.png" width="600px" />
    </a>
 
 .. toctree::
