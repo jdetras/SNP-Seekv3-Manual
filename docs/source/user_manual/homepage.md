@@ -2,19 +2,23 @@
 
 The home page displays the main entry points to search or browse the database. The main functionalities can be accessed by clicking the images, or items from the menu.
 
+<a href="/_static/homepage.png" data-lightbox="example" data-title="Zoomable Image">
+ <img src="/_static/homepage.png" width="600px" />
+</a>
 
--	Genotype - query for SNPs and Indels from the 3000 Genome Project called againts 5 reference rice genomes
--	Variety - query for phenotypes and passport data for the 3024 resequenced varieties
--	JBrowse - genome browser to display sequence and features for the reference genomes
--	Help - this help and documentation
+The **top menu** items are:
+- Legacy SNP-Seek (version 2.0) - link to the previous version of SNP-Seek
+- Search - left navigation menu
+- Pricing - information about the pricing plans
+- Help - access to the documentation
+- Login - login to account for additional features
 
+The **left navigation menu** provides access to the main functionalities of the database:
 
-Main menu
-- Search - SNPs, Varieties, Gene loci
-- Browse
-    - Genome - Nipponbare, 93-11, IR64-21, Kasalath, DJ123
-    - Phylogenetic tree - K9, K12 groupings
-    - MDS Plot
-    - Genome alignments - pairwise alignment between the 5 references. Select the reference then the aligned reference.
-- My Lists - manage lists of varieties, SNPs or Loci
-- Download
+- Search by Genotype
+- Search by Variety
+- Search by Gene Loci
+
+The **information display** shows some quick statistics on the datasets, varieties, SNPs and number of visits. 
+
+The **carousel** shows the About the Site information, Publications and Tiered Data Access information.
