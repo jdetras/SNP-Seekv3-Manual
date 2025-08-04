@@ -8,10 +8,17 @@ The first few lines of your downloaded .map file should look like this:
 
 ```{image} /_static/image10.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
+
 Likewise, the first few lines of your .ped file should be like this:
 
 ```{image} /_static/image11.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
-

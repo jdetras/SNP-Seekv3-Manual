@@ -12,7 +12,12 @@ Tick the box to "Include gene interactions (RiceNetv2, PRIN)" and "Gene Ontology
 
 ```{image} /_static/image15.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
+
 
 The result should be a table which contains the annotations that canbe grouped by:
 
@@ -20,16 +25,27 @@ The result should be a table which contains the annotations that canbe grouped b
 
 ```{image} /_static/image16.png
 :alt: Marker/Position
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 2.  Gene Locus
 
 ```{image} /_static/image17.png
 :alt: Gene Locus
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 3.  QTL
 
 ```{image} /_static/image18.png
 :alt: QTL
+:width: 600px
+:class: zoomable
+:align: center
 ```

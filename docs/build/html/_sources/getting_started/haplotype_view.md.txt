@@ -5,19 +5,31 @@ View. This allows us to know whether our haplotypes make sense.
 
 ```{image} /_static/image7.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 You should also see major grouping of alleles which contributes to the haplotype.
 
 ```{image} /_static/image8.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 In this hands-on, you should see **3 major haplotype groups**.
 
 ```{image} /_static/image9.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 Knowledge Check: How many varieties belong to each major haplotype
 group?

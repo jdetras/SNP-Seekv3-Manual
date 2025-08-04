@@ -18,11 +18,14 @@ Click on "Gene set/enrichment".
 
 ```{image} /_static/image20.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 Unfortunately, this query will not return any result. Click the "Go" button beside the Ricenet option and it will give us this message:
 
 *"No ROC analysis, because the valid query set size \< 4."*
 
 In this case, our query size is very small. You can explore nearby regions and see if there are existing gene networks reported by increasing the upper and lower bound positions.
-

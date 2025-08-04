@@ -41,6 +41,10 @@ Click **"Search"** to retrieve the positions within this region within the 3KRG 
 
 ```{image} /_static/image2.png
 :alt: Search Genotype
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 Knowledge Check: How many SNPs were retrieved within the given region?

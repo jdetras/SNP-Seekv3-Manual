@@ -2,7 +2,11 @@
 
 ```{image} /_static/image1.png
 :alt: User Login
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
 
 1.  Login using your SNP-seek credentials. There are three ways to do this:
 	

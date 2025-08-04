@@ -4,4 +4,9 @@ The Genotype query also returns a table containing the SNP effects detected on M
 
 ```{image} /_static/image6.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
+```
+<br>
 ```

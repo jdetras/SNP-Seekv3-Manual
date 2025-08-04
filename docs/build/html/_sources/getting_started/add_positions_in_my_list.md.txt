@@ -10,14 +10,25 @@ You may tick the box on "Verify if SNP is in Variant set". However, in this hand
 
 ```{image} /_static/image12.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
-
+<br>
 You will be able to see this new list on the left side of the panel.
 
 ```{image} /_static/image13.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
+
 
 ```{image} /_static/image14.png
 :alt:
+:width: 600px
+:class: zoomable
+:align: center
 ```
