@@ -4,7 +4,12 @@ The home page displays the main entry points to search or browse the database. T
 
 ```{image} /_static/homepage.png
 :alt: Homepage
+:width: 600px
+:class: zoomable
+:align: center
 ```
+<br>
+
 The **top menu** items are:
 - Legacy SNP-Seek (version 2.0) - link to the previous version of SNP-Seek
 - Search - left navigation menu

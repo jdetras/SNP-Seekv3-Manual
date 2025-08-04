@@ -58,3 +58,6 @@ html_js_files = [
 def setup(app):
     app.add_css_file('lightbox2/css/lightbox.min.css')
     app.add_js_file('lightbox2/js/lightbox.min.js')
+
+def setup(app):
+    app.add_css_file('custom.css')  # for Sphinx >= 1.8
