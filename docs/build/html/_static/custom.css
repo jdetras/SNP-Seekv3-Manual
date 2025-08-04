@@ -1,0 +1,17 @@
+/* Top search area */
+.wy-side-nav-search {
+    background-color: #6D8B65;
+}
+
+/* Sidebar background */
+.wy-nav-side {
+    background-color: #6D8B65;
+}
+
+/* Active or hover link */
+.wy-menu-vertical a:active,
+.wy-menu-vertical a.current,
+.wy-menu-vertical a:hover {
+    color: #ffffff;
+    background-color: #556F4E;
+}
