@@ -1,6 +1,12 @@
 SNP Query
 ==========================
 
+.. raw:: html
+
+   <a href="_static/snp_query.png" data-lightbox="example" data-title="Zoomable Image">
+     <img src="_static/snp_query.png" width="600px" />
+   </a>
+
 .. toctree::
    :maxdepth: 1
 

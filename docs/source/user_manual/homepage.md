@@ -2,10 +2,9 @@
 
 The home page displays the main entry points to search or browse the database. The main functionalities can be accessed by clicking the images, or items from the menu.
 
-<a href="_static/homepage.png" data-lightbox="example" data-title="Zoomable Image">
- <img src="_static/homepage.png" width="600px" />
-</a>
-
+```{image} /_static/homepage.png
+:alt: Homepage
+```
 The **top menu** items are:
 - Legacy SNP-Seek (version 2.0) - link to the previous version of SNP-Seek
 - Search - left navigation menu
