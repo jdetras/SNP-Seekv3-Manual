@@ -8,11 +8,10 @@ The home page displays the main entry points to search or browse the database. T
 
    homepage.md
    search/index
-   my_lists.md
+   jbrowse.md
+   jbrowse2.md
+   gwas.md
+   traitgenes.md
    download.md
-   genome_browser.md
-   tree_browser.md
-   mds_plots.md
-   genome_alignments.md
-   help.md
-   about.md
+   my_lists.md
+   orderseeds.md

@@ -13,3 +13,4 @@ This guide walks you through logging in, querying SNP data, analyzing haplotypes
    user_manual/index.rst
    use_cases/index.rst
    faq/index.rst
+   about.md
