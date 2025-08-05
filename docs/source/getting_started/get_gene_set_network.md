@@ -1,20 +1,20 @@
-# Get Gene set/network
+# 10. Get Gene set/network
 
 Using the gene list we generated, we will now do a gene enrichment analysis to know if there are other genes previously reported that are associated with our QTL of interest.
 
-To do this, go to "Search"-\> "Gene Loci.
+To do this, go to "**Search**"-\> "**Gene Loci**.
 
-Set as Reference genome: "Japonica Nipponbare".
+Set as Reference genome: "**Japonica Nipponbare**".
 
-Set Search to: "Gene set/networks".
+Set Search to: "**Gene set/networks**".
 
-Set Gene Models to: "All".
+Set Gene Models to: "**All**".
 
-Set the My Locus List to: "qDTF2_genes".
+Set the My Locus List to: "**qDTF2_genes**".
 
-Tick "Ricenetv2 direct neighbors" and "AgriGO".
+Tick "**Ricenetv2 direct neighbors**" and "**AgriGO**".
 
-Click on "Gene set/enrichment".
+Click on "**Gene set/enrichment**".
 
 ```{image} /_static/image20.png
 :alt:
@@ -24,7 +24,7 @@ Click on "Gene set/enrichment".
 ```
 <br>
 
-Unfortunately, this query will not return any result. Click the "Go" button beside the Ricenet option and it will give us this message:
+Unfortunately, this query will not return any result. Click the "**Go**" button beside the Ricenet option and it will give us this message:
 
 *"No ROC analysis, because the valid query set size \< 4."*
 

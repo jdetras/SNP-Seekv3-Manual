@@ -1,4 +1,4 @@
-# Haplotype View
+# 5. Haplotype View
 
 Another view for the result of the genotype query is the Haplotype
 View. This allows us to know whether our haplotypes make sense.
@@ -21,7 +21,7 @@ You should also see major grouping of alleles which contributes to the haplotype
 ```
 <br>
 
-In this hands-on, you should see **3 major haplotype groups**.
+You should see **3 major haplotype groups**.
 
 ```{image} /_static/image9.png
 :alt:

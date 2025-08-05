@@ -1,14 +1,14 @@
-# Annotate SNP List
+# 8. Annotate SNP List
 
-Next thing we want to do is to look for candidate genes within the QTL region in Nipponbare, go to "Search"-\> "Gene Loci".
+Next thing we want to do is to look for candidate genes within the QTL region in Nipponbare, go to "**Search**"-\> "**Gene Loci**".
 
-Set "Japonica nipponbare" as reference genome.
+Set "**Japonica nipponbare**" as reference genome.
 
-Set "SNP Annotator (My SNP List)" in Search.
+Set "**SNP Annotator (My SNP List)**" in Search.
 
-Set "All" to search all Gene models available.
+Set "**All**" to search all Gene models available.
 
-Tick the box to "Include gene interactions (RiceNetv2, PRIN)" and "Gene Ontology" annotations. You may choose to add more to gather mor annotations for this region.
+Tick the box to "**Include gene interactions (RiceNetv2, PRIN)**" and "**Gene Ontology**" annotations. You may choose to add more to gather mor annotations for this region.
 
 ```{image} /_static/image15.png
 :alt:
@@ -19,7 +19,7 @@ Tick the box to "Include gene interactions (RiceNetv2, PRIN)" and "Gene Ontology
 <br>
 
 
-The result should be a table which contains the annotations that canbe grouped by:
+The result should be a table which contains the annotations that can be grouped by:
 
 1.  Marker/Position
 

@@ -1,10 +1,10 @@
-# Downloading the results table
+# 6. Downloading the results table
 
-Download the table in "Plink" format by clicking on the "Plink" button.
+Download the table in "**Plink**" format by clicking on the "**Plink**" button.
 
-This will give you two files in a zipped folder: a ped and map file that by now you should be familiar with.
+This will give you two files in a zipped folder: a **ped** and **map** file that by now you should be familiar with.
 
-The first few lines of your downloaded .map file should look like this:
+The first few lines of your downloaded **.map** file should look like this:
 
 ```{image} /_static/image10.png
 :alt:
@@ -14,7 +14,7 @@ The first few lines of your downloaded .map file should look like this:
 ```
 <br>
 
-Likewise, the first few lines of your .ped file should be like this:
+Likewise, the first few lines of your **.ped** file should be like this:
 
 ```{image} /_static/image11.png
 :alt:

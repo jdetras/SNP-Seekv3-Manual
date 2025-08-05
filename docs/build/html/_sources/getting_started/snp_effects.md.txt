@@ -1,4 +1,4 @@
-# SNP Effects
+# 4. SNP Effects
 
 The Genotype query also returns a table containing the SNP effects detected on MSU gene models. This is calculated using the SNPEff program.
 
@@ -9,4 +9,3 @@ The Genotype query also returns a table containing the SNP effects detected on M
 :align: center
 ```
 <br>
-```

@@ -1,4 +1,4 @@
-# Query result
+# 3. Query result
 
 > After querying the genotypes, you will have a table which displays the
 > alleles for each 3KRG variety in a row, for all SNP positions within
