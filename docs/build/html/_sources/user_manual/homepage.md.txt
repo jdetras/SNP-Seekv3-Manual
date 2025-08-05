@@ -10,6 +10,8 @@ The home page displays the main entry points to search or browse the database. T
 ```
 <br>
 
+## Banner
+
 The **top menu** items are:
 - Legacy SNP-Seek (version 2.0) - link to the previous version of SNP-Seek
 - Search - left navigation menu
@@ -17,12 +19,25 @@ The **top menu** items are:
 - Help - access to the documentation
 - Login - login to account for additional features
 
+## Sidebar
+
 The **left navigation menu** provides access to the main functionalities of the database:
 
 - Search by Genotype
 - Search by Variety
 - Search by Gene Loci
 
+Additional features are available after logging in:
+- Jbrowse 
+- JBrowse2 
+- Trait Genes 
+- GWAS
+- My Lists 
+- Order Seeds 
+
+## Cards
+
 The **information display** shows some quick statistics on the datasets, varieties, SNPs and number of visits. 
 
+## Carousel
 The **carousel** shows the About the Site information, Publications and Tiered Data Access information.
