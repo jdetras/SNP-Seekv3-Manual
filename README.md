@@ -4,4 +4,6 @@ This is the development fork for the SNP-Seek version 3 User Manual. This also i
 
 The manual uses Read The Docs (RTD) with sphinx-rtd-theme.
 
-The development version is accessible at https://snpseekv3.readthedocs.io/en/latest/index.html while the production version is accessible at https://snp-seek-v3-user-manual.readthedocs.io/en/latest/. 
+## Websites
+Development website: https://snpseekv3.readthedocs.io/en/latest/index.html 
+Production website: https://snp-seek-v3-user-manual.readthedocs.io/en/latest/
