@@ -1,10 +1,11 @@
 # Download
 
-The **Bulk Download Page** provides links for:
-- SNPs data in PLINK format
-- FastQ and FastQC reports
-- BAM and VCF from Amazon S3
-- Sequence - generate alternate sequence for the list of varieties and region
+The Bulk Download Page offers convenient links for the following resources:
+
+- **SNP Data**: Available in PLINK format.
+- **FastQ and FastQC Reports**: Download sequencing data and quality reports.
+- **BAM and VCF Files**: Access files stored on Amazon S3.
+- **Sequence Generation**: Generate alternate sequences for a list of varieties and specified regions.
 
 ```{image} /_static/download.png
 :alt: Homepage

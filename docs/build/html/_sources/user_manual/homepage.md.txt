@@ -1,6 +1,6 @@
 # Homepage
 
-The home page displays the main entry points to search or browse the database. The main functionalities can be accessed by clicking the images, or items from the menu.
+The home page serves as the primary gateway for searching or browsing the database. Users can easily access key functionalities by clicking on the images or selecting items from the menu.
 
 ```{image} /_static/homepage.png
 :alt: Homepage
@@ -12,32 +12,34 @@ The home page displays the main entry points to search or browse the database. T
 
 ## Banner
 
-The **top menu** items are:
-- Legacy SNP-Seek (version 2.0) - link to the previous version of SNP-Seek
-- Search - left navigation menu
-- Pricing - information about the pricing plans
-- Help - access to the documentation
-- Login - login to account for additional features
+The top menu items include:
+- **Legacy SNP-Seek (version 2.0)**: A link to the previous version of SNP-Seek.
+- **Search**: Access the left navigation menu for searching the database.
+- **Pricing**: Information about available pricing plans.
+- **Help**: Access documentation and support resources.
+- **Login**: Sign in to your account to unlock additional features.
 
 ## Sidebar
 
-The **left navigation menu** provides access to the main functionalities of the database:
+The left navigation panel offers easy access to the primary functionalities of the database:
 
-- Search by Genotype
-- Search by Variety
-- Search by Gene Loci
+- **Search by Genotype**
+- **Search by Variety**
+- **Search by Gene Loci**
 
-Additional features are available after logging in:
-- Jbrowse 
-- JBrowse2 
-- Trait Genes 
-- GWAS
-- My Lists 
-- Order Seeds 
+Additional features are accessible after logging in:
+
+- **Jbrowse** 
+- **JBrowse2** 
+- **Trait Genes** 
+- **GWAS**
+- **My Lists** 
+- **Order Seeds** 
 
 ## Cards
 
-The **information display** shows some quick statistics on the datasets, varieties, SNPs and number of visits. 
+The **information display** provides some quick statistics on the datasets, varieties, SNPs and number of visits. 
 
 ## Carousel
-The **carousel** shows the About the Site information, Publications and Tiered Data Access information.
+
+The **carousel** features information the about the site, including details on publications and tiered data access.
