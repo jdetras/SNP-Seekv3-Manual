@@ -21,8 +21,6 @@ Tick the box to "**Include gene interactions (RiceNetv2, PRIN)**" and "**Gene On
 
 The result should be a table which contains the annotations that can be grouped by marker position, gene locus, or by QTL.
 
-1.  Marker/Position
-
 ```{image} /_static/8_annotation.png
 :alt: Marker/Position
 :width: 600px
