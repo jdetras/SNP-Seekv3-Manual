@@ -8,6 +8,7 @@ Save the List name as "**PHS-genelist**" and click "**Create Gene List**".
 :class: zoomable
 :align: center
 ```
+<br>
 
 Go to "**My Lists**" and you should see the gene locus/loci when you search under "**Locus**".
 
