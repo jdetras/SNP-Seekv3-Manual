@@ -10,7 +10,7 @@ Set Search to: "**Gene set/networks**".
 
 Set Gene Models to: "**All**".
 
-Set the My Locus List to: "**PHS-genes**".
+Set the My Locus List to: "**PHS-genelist**".
 
 Tick "**Ricenetv2 direct neighbors**" and "**AgriGO**".
 
