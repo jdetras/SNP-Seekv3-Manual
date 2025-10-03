@@ -17,6 +17,7 @@ Go to "**My Lists**" and you should see the gene locus/loci when you search unde
 :class: zoomable
 :align: center
 ```
+<br>
 
 ```{image} /_static/9_savinggenelist_3.png
 :alt:
